@@ -18,11 +18,25 @@ Suggested hardware configuration is as follows: RAM: 16+ GB, CPU: 8+ cores, 3.3+
 -	`ML model training and interpretation.ipynb` ( Code for machine learning model training & interpretation)
 -	`Simplified model training and visualization.ipynb` (Code for simplified model)
 3.	<b>Deep learning</b>:
-o	tf2.yml (Deep learning Environment configuration File)
-o	SOTA_comparison.ipynb (MolMapNet Training & Interpretation Code)
-4.	Best model:
-o	AtomPair.ipynb (Calculate Atompair fingerprint)
-o	AtomPairfinal_model.pkl (Best Model in pkl Format)
-o	best_model.ipynb (Example Code for Predicting Compound 1 and Compound 2, where 1 represents TICT and 0 represents PICT)
-5.	Video:
-o	Demonstrations of the training and model interpretation process to save researchers' setup time.
+- `Create your env for DL.yml` (Configuration file of deep learning)
+- `DL model training and interpretation.ipynb` (Code for deep learning training & interpretation)
+4.	<b>Best model</b>:
+-	`AtomPairfinal_model.pkl` (Best model in .pkl format)
+
+5.	<b>Videos</b>:
+- Vedios logging the main training process of our models.
+
+6.	<b>Demos</b>:
+-	See "How to use" section!
+
+# How to use
+## Predit new molecules using our best model
+-	Step 1: Run `Demo1 Calculate descriptors.ipynb`(The example input file is: `Inputs of Demo1.csv`; the example output file is: `Outputs of Demo1.csv`);
+-	Step 2: Run `Demo2 Call the best model and prediction.ipynb`(The example input file is: `Outputs of Demo1.csv`; the example output file is: `Outputs of Demo2.csv`);
+
+
+
+
+
+
+  
