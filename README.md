@@ -1,7 +1,7 @@
 # ChemTICT
 Interpretable machine learning deconstructs the structural essence of TICT&amp;PICT fluorophores
 # Overview
-This repository is not an independent software or package, it provides the original code and dataset for the project "<i>Interpretable Machine Learning Deconstructs the Structural Essence of TICT and PICT Fluorophores</i>". This project addresses the challenge of accurately distinguishing whether the charge transfer in D-π-A type molecules exhibits TICT or PICT, while also providing accurate and practical AI-guided rules for the rational design of fluorophores with TICT and PICT.
+This repository is not an independent software or package, it provides the original code and dataset for the project "<i>***Interpretable Machine Learning Deconstructs the Structural Essence of TICT and PICT Fluorophores***</i>". This project addresses the challenge of accurately distinguishing whether the charge transfer in D-π-A type molecules exhibits TICT or PICT, while also providing accurate and practical AI-guided rules for the rational design of fluorophores with TICT and PICT.
 
 ## Key features
 1. The First AI-Oriented Approach for TICT & PICT Exploration.
