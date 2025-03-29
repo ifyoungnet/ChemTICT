@@ -30,7 +30,7 @@ Suggested hardware configuration is as follows: RAM: 16+ GB, CPU: 8+ cores, 3.3+
 -	See "How to use" section!
 
 # How to use
-## Predit new molecules using our best model
+## Predict new molecules using our best model
 -	Step 1: Run `Demo1 Calculate descriptors.ipynb`(The example input file is: `Inputs of Demo1.csv`; the example output file is: `Outputs of Demo1.csv`);
 -	Step 2: Run `Demo2 Call the best model and prediction.ipynb`(The example input file is: `Outputs of Demo1.csv`; the example output file is: `Outputs of Demo2.csv`);
 
